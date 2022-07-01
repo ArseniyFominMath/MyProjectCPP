@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\программы\_Судоку_\_Судоку_\MyForm.h(25,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  _Судоку_.vcxproj -> D:\программы\_Судоку_\Debug\_Судоку_.exe

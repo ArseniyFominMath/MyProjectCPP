@@ -1,0 +1,4 @@
+D:\программы\Калькулятор2\Калькулятор2\Debug\Калькулятор2.DLG.resources
+D:\программы\Калькулятор2\Калькулятор2\Debug\Калькулятор2.MyForm.resources
+D:\программы\Калькулятор2\Калькулятор2\Debug\Калькулятор2.vcxproj.GenerateResource.cache
+D:\программы\Калькулятор2\Калькулятор2\Debug\Калькулятор2.vcxproj.AssemblyReference.cache

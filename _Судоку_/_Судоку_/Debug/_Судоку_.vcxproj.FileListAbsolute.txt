@@ -1,0 +1,3 @@
+D:\программы\_Судоку_\_Судоку_\Debug\Судоку.MyForm.resources
+D:\программы\_Судоку_\_Судоку_\Debug\_Судоку_.vcxproj.GenerateResource.cache
+D:\программы\_Судоку_\_Судоку_\Debug\_Судоку_.vcxproj.AssemblyReference.cache
